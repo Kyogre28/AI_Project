@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Installer files
+*.exe
+*.msi
+*.dll
+
+# Model files (large)
+*.h5
+*.pkl
+*.model
+*.weights
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
